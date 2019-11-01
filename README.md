@@ -14,7 +14,7 @@
 
 * Estimate of time needed to complete: 45 minutes.
 
-* Start time:
+* Start time: 12:18 PM
 
 * Finish time:
 
