@@ -49,13 +49,13 @@
     }
 
     #main > section.two {
-      background-color: #f5fafa;
+      background-color: darkslategray;
     }
 
     #main > section.three {
-      background-color: #ecf1f1;
+      background-color: darkolivegreen;
     }
 
     #main > section.four {
-      background-color: #e8edec;
+      background-color: darkgoldenrod;
     }
