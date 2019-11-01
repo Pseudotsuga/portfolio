@@ -6,6 +6,16 @@
 
 * Start time: 11:05 AM
 
-* Finish time: 
+* Finish time: 12:12 PM
 
-* Actual time needed to complete: 
+* Actual time needed to complete: ~ 45 minutes.
+
+## Feature 2: Modify the contents
+
+* Estimate of time needed to complete: 45 minutes.
+
+* Start time:
+
+* Finish time:
+
+* Actual time needed to complete:
