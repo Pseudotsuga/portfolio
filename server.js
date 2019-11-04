@@ -18,7 +18,7 @@ app.get('/data', (request, response) => {
     canFly: true,
     pilot: 'Well Trained',
     name: 'Calvin\'s dog, Sadie',
-    school: 'ACME School of Airplane Flying'
+    school: 'ACME School of Airplane Flying',
   }
   response.status(200).json(airplanes);
 });
