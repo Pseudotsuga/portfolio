@@ -120,4 +120,9 @@
       visibleClass: 'header-visible',
     });
 
+  const buttonHandler = () => {
+    window.location = 'https://lmgtfy.com/?q=conor+mccue+bend+oregon&s=g';
+  };
+
+  $('#googleButton').on('click', buttonHandler);
 })(jQuery);
